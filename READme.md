@@ -1,6 +1,6 @@
-#Techno-jam Dsa Questions(My-Approach)
+# Techno-jam Dsa Questions(My-Approach)
 
-##Write a program to reverse an array or string.
+## Write a program to reverse an array or string.
 
 
 1. I defined a function in which i passed the parameter (arr). i used the [::-1] method to reverse the array , and then returned it.
@@ -8,7 +8,7 @@
 2. Then called the function inside a different variable which was reversed_arr ,  then i printed both the original and reversed array..
 
 
-##Given an array of N integers, and an integer K, the task is to find the number of pairs of integers in the array whose sum is equal to K.
+## Given an array of N integers, and an integer K, the task is to find the number of pairs of integers in the array whose sum is equal to K.
 
 1. I created a function named count_pairs. I initialised a variable sum to keep count of the sum.
 
@@ -24,7 +24,7 @@
 
 
 
-##Given an array arr[] of size N-1 with integers in the range of [1, N], the task is to find the missing number from the first N integers.
+## Given an array arr[] of size N-1 with integers in the range of [1, N], the task is to find the missing number from the first N integers.
 
 1. i created  a function with the parameters as array and N .
 
